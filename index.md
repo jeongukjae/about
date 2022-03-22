@@ -6,8 +6,9 @@ Free free to reach out to me.
 
 ## Experiences
 
-* Machine Learning Engineer, Danggeun Market Inc., December 2020 - Present
-* Machine Learning Engineer, ScatterLab, March 2019 - November 2020
+* Machine Learning Engineer, Danggeun Market Inc.; Seoul, Korea - December 2020 - Present
+* Machine Learning Engineer, ScatterLab; Seoul, Korea - December 2019 - November 2020
+* Developer, ScatterLab; Seoul, Korea - March 2019 - December 2019
 
 ## Other experiences
 
