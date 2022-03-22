@@ -26,7 +26,7 @@ Free free to reach out to me.
 
 ## Education
 
-* University of Seoul, 2017 - present
+* University of Seoul, March 2017 - Present
   * Bachelor of Science in Electrical and Computer Engineering
   * Bachelor of Science in Computer Science and Engineering
 
