@@ -34,5 +34,6 @@ Free free to reach out to me.
 * [LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
 * [GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)
+* [Engineering Blog(jeongukjae.github.io)](https://jeongukjae.github.io)
 * [Twitter (@jeongukjae)](https://twitter.com/jeongukjae)
 * [Facebook (JeongUkJae)](https://www.facebook.com/JeongUkJae/)
