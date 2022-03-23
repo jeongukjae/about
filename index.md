@@ -52,7 +52,7 @@ Free free to reach out to me.
 
 ### 2021
 
-* [distilkobert-sentence-encoder] (ML)
+* distilkobert-sentence-encoder (ML)
   * Developed sentence embedding model for Korean
   * TFHub page: <https://tfhub.dev/jeongukjae/distilkobert_sentence_encoder/1>
   * Blog post: <https://jeongukjae.github.io/posts/develop-distilkobert-sentence-encoder/>
