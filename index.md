@@ -10,6 +10,7 @@ Free free to reach out to me.
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
 * [GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)
 * [Engineering Blog (jeongukjae.github.io)](https://jeongukjae.github.io)
+* [Medium (@jeongukjae)](https://medium.com/@jeongukjae)
 * [Twitter (@jeongukjae)](https://twitter.com/jeongukjae)
 * [Facebook (JeongUkJae)](https://www.facebook.com/JeongUkJae/)
 
