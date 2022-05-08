@@ -17,7 +17,7 @@ Free free to reach out to me.
 ## Experiences
 
 * Machine Learning Engineer, Danggeun Market Inc.; Seoul, Korea - December 2020 - Present
-* Machine Learning Engineer, ScatterLab; Seoul, Korea - December 2019 - November 2020
+* Machine Learning Engineer (Pingpong team), ScatterLab; Seoul, Korea - December 2019 - November 2020
 * Developer, ScatterLab; Seoul, Korea - March 2019 - December 2019
 
 ## Other experiences
@@ -37,12 +37,13 @@ Free free to reach out to me.
 
 ## Articles
 
-* [TFX와 함께 머신러닝 파이프라인 개발하기 - 당근마켓 팀블로그](https://medium.com/daangn/tfx와-함께-머신러닝-파이프라인-개발하기-4578f030a9c1) - March 2022
-* [TensorFlow Custom Op으로 데이터 변환 최적화하기 - 핑퐁 블로그](https://blog.pingpong.us/custom-op-in-data-processing/) - January 2021
-* [하나의 조직에서 TensorFlow와 PyTorch 동시 활용하기 - 핑퐁 블로그](https://blog.pingpong.us/torch-to-tf-tf-to-torch/) - December 2020
-* [딥러닝 모델 서비스 A-Z 2편 - Knowledge Distillation - 핑퐁 블로그](https://blog.pingpong.us/ml-model-optimize-2/) - November 2020
-* [딥러닝 모델 서비스 A-Z 1편 - 연산 최적화 및 모델 경량화 - 핑퐁 블로그](https://blog.pingpong.us/ml-model-optimize/) - March 2020
-* [핑퐁팀의 Python 문화 구축기 - 핑퐁 블로그](https://blog.pingpong.us/python-in-pingpong/) - Feburary 2020
+* [Why Karrot Uses TFX, and How to Improve Productivity on ML Pipeline Development - TensorFlow Blog](https://blog.tensorflow.org/2022/05/why-karrot-uses-tfx.html) - May 2022
+* [TFX와 함께 머신러닝 파이프라인 개발하기 - Danggeun Market Team Blog](https://medium.com/daangn/tfx와-함께-머신러닝-파이프라인-개발하기-4578f030a9c1) - March 2022
+* [TensorFlow Custom Op으로 데이터 변환 최적화하기 - Pingpong Blog](https://blog.pingpong.us/custom-op-in-data-processing/) - January 2021
+* [하나의 조직에서 TensorFlow와 PyTorch 동시 활용하기 - Pingpong Blog](https://blog.pingpong.us/torch-to-tf-tf-to-torch/) - December 2020
+* [딥러닝 모델 서비스 A-Z 2편 - Knowledge Distillation - Pingpong Blog](https://blog.pingpong.us/ml-model-optimize-2/) - November 2020
+* [딥러닝 모델 서비스 A-Z 1편 - 연산 최적화 및 모델 경량화 - Pingpong Blog](https://blog.pingpong.us/ml-model-optimize/) - March 2020
+* [핑퐁팀의 Python 문화 구축기 - Pingpong Blog](https://blog.pingpong.us/python-in-pingpong/) - Feburary 2020
 
 ## Contributed open sources
 
