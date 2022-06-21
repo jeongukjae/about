@@ -1,4 +1,4 @@
-## Ukjae Jeong
+## Ukjae Jeong, 정욱재
 
 Hi, I'm Ukjae Jeong, working as an Machine Learning Engineer, focusing mostly on MLOps and NLP.
 
@@ -6,10 +6,10 @@ Free free to reach out to me.
 
 ## Links
 
-* [LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)
+* **[Engineering Blog (jeongukjae.github.io)](https://jeongukjae.github.io)**
+* **[LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)**
+* **[GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)**
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
-* [GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)
-* [Engineering Blog (jeongukjae.github.io)](https://jeongukjae.github.io)
 * [Medium (@jeongukjae)](https://medium.com/@jeongukjae)
 * [Twitter (@jeongukjae)](https://twitter.com/jeongukjae)
 * [Facebook (JeongUkJae)](https://www.facebook.com/JeongUkJae/)
@@ -17,7 +17,7 @@ Free free to reach out to me.
 ## Experiences
 
 * Machine Learning Engineer, Danggeun Market Inc.; Seoul, Korea - December 2020 - Present
-* Machine Learning Engineer (Pingpong team), ScatterLab; Seoul, Korea - December 2019 - November 2020
+* Machine Learning Engineer, ScatterLab; Seoul, Korea - December 2019 - November 2020
 * Developer, ScatterLab; Seoul, Korea - March 2019 - December 2019
 
 ## Other experiences
@@ -30,10 +30,12 @@ Free free to reach out to me.
 
 ## Talks
 
-* TensorFlow Everywhere Korea; Online - February 2021
-  * Topic: “TensorFlow-Text and RaggedTensor for NLP” ([Blog post link](https://jeongukjae.github.io/posts/tensorflow-text-and-ragged-tensor/))
-* F8 2019 meetup in Seoul; Seoul, Korea — March 2019
-  * Reviewed the experience of participating in F8 2019 Hackathon
+* [I/O Extended 2022 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-2022-seoul/); Seoul, Korea - June 2022
+  * Technical Seesion. ("AI/ML at Google I/O 22", [Slide link](https://docs.google.com/presentation/d/13ZfgZ_A776ShZUl-cuRHfLreQfAi4yb5B-AlRpN57ns/edit?usp=sharing))
+* [TensorFlow Everywhere Korea](https://festa.io/events/1395); Online - February 2021
+  * Technical Seesion. ("TensorFlow-Text and RaggedTensor for NLP", [Slide link](https://jeongukjae.github.io/pdfs/tfekr_tftext.pdf))
+* [F8 2019 meetup in Seoul](https://f8seoul2019.splashthat.com); Seoul, Korea — March 2019
+  * Reviewed the experience of participating in the F8 2019 Hackathon
 
 ## Articles
 
