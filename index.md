@@ -10,9 +10,9 @@ Free free to reach out to me.
 * **[LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)**
 * **[GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)**
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
-* [Medium (@jeongukjae)](https://medium.com/@jeongukjae)
 * [Twitter (@jeongukjae)](https://twitter.com/jeongukjae)
 * [Facebook (JeongUkJae)](https://www.facebook.com/JeongUkJae/)
+* [Medium (@jeongukjae)](https://medium.com/@jeongukjae)
 
 ## Experiences
 
