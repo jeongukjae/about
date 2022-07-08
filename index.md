@@ -6,7 +6,7 @@ Free free to reach out to me.
 
 ## Links
 
-* **[Engineering Blog (jeongukjae.github.io)](https://jeongukjae.github.io)**
+* **[Engineering Blog (about.ukjae.io)](https://about.ukjae.io)**
 * **[LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)**
 * **[GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)**
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
@@ -33,7 +33,7 @@ Free free to reach out to me.
 * [I/O Extended 2022 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-2022-seoul/); Seoul, Korea - June 2022
   * Technical Seesion. ("AI/ML at Google I/O 22", [Slide link](https://docs.google.com/presentation/d/13ZfgZ_A776ShZUl-cuRHfLreQfAi4yb5B-AlRpN57ns/edit?usp=sharing))
 * [TensorFlow Everywhere Korea](https://festa.io/events/1395); Online - February 2021
-  * Technical Seesion. ("TensorFlow-Text and RaggedTensor for NLP", [Slide link](https://jeongukjae.github.io/pdfs/tfekr_tftext.pdf))
+  * Technical Seesion. ("TensorFlow-Text and RaggedTensor for NLP", [Slide link](https://about.ukjae.io/pdfs/tfekr_tftext.pdf))
 * [F8 2019 meetup in Seoul](https://f8seoul2019.splashthat.com); Seoul, Korea — March 2019
   * Reviewed the experience of participating in the F8 2019 Hackathon
 
