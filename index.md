@@ -6,7 +6,7 @@ Free free to reach out to me.
 
 ## Links
 
-* **[Engineering Blog (about.ukjae.io)](https://about.ukjae.io)**
+* **[Engineering Blog (blog.ukjae.io)](https://blog.ukjae.io)**
 * **[LinkedIn (jeongukjae)](https://www.linkedin.com/in/jeongukjae/)**
 * **[GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)**
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
