@@ -2,7 +2,7 @@
 
 Hi, I'm Ukjae Jeong, working as an Machine Learning Engineer, focusing mostly on MLOps and NLP.
 
-Free free to reach out to me.
+Feel free to reach out to me.
 
 ## Links
 
